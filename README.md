@@ -2,7 +2,7 @@
 ## <h4>I love to learn more and more about the new technologies of this new world.<h4>
 <h3 align="left">Discord:</h3>
 <h2>Personal Discord<h2>
-<img src="https://discord.c99.nl/widget/theme-5/932692828126068858.png">
+<img src="https://discord.c99.nl/widget/theme-4/932692828126068858.png">
 <h2>Discord Server<h2>
 <a href="https://discord.gg/V5K6pTe7dD">StrikeFN</a>
 <h2>Trophies<h2>
