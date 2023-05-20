@@ -1,6 +1,6 @@
 # DRQSuperior
 
-Welcome to the DRQSuperior repository! Here, I am constantly exploring and learning about the latest technologies in this ever-evolving world.
+Welcome to my Github! Here, I am constantly exploring and learning about the latest technologies in this ever-evolving world.
 
 ## Contact
 
@@ -11,7 +11,8 @@ Welcome to the DRQSuperior repository! Here, I am constantly exploring and learn
 Join my Discord server, SimbaDev: [SimbaDev Discord](https://discord.gg/simbadev)
 
 ## Trophies
-Check out my GitHub profile trophies: [![trophy](https://github-profile-trophy.vercel.app/?username=DRQSuperior&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+Check out my GitHub profile trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=DRQSuperior&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Stats
 ### Summary
