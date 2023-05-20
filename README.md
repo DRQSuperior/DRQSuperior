@@ -5,13 +5,13 @@ Welcome to the DRQSuperior repository! Here, I am constantly exploring and learn
 ## Contact
 
 ### Personal Discord
-![Personal Discord](https://discord.c99.nl/widget/theme-4/932692828126068858.png)
+![Personal Discord](https://discord.c99.nl/widget/theme-1/1063898834922647583.png)
 
 ### Discord Server
 Join our Discord server, StrikeFN: [StrikeFN Discord](https://discord.gg/V5K6pTe7dD)
 
 ## Trophies
-Check out my GitHub profile trophies: [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
+Check out my GitHub profile trophies: [![trophy](https://github-profile-trophy.vercel.app/?username=DRQSuperior&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Stats
 ### Summary
