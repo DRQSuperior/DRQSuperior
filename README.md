@@ -8,7 +8,7 @@ Welcome to the DRQSuperior repository! Here, I am constantly exploring and learn
 ![Personal Discord](https://discord.c99.nl/widget/theme-1/1063898834922647583.png)
 
 ### Discord Server
-Join our Discord server, StrikeFN: [StrikeFN Discord](https://discord.gg/V5K6pTe7dD)
+Join my Discord server, SimbaDev: [SimbaDev Discord](https://discord.gg/simbadev)
 
 ## Trophies
 Check out my GitHub profile trophies: [![trophy](https://github-profile-trophy.vercel.app/?username=DRQSuperior&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
